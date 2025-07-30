@@ -14,6 +14,18 @@ Sou um profissional da área de tecnologia com experiência em:
 
 🔍 Estou em busca de oportunidades para contribuir em times que valorizam **confiabilidade**, **performance** e **observabilidade**.
 
+## 🛠️ Minhas principais habilidades técnicas
+
+- **Cloud:** AWS (EC2, S3, IAM, Lambda, RDS, CloudWatch)
+- **Infraestrutura como Código:** Terraform, Ansible
+- **Containers:** Docker, Docker Compose
+- **CI/CD:** GitHub Actions, Bitbucket Pipelines
+- **Automação:** Shell Script, Python, PowerShell
+- **Sistemas:** Linux (administração, permissões, processos), Windows Server
+- **Monitoramento:** Zabbix, Grafana
+- **Banco de Dados:** MySQL, SQL Server (administração e tuning)
+
+
 ## 🧰 Tecnologias que uso
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
