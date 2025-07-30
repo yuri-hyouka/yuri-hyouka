@@ -16,7 +16,7 @@ Sou um profissional da área de tecnologia com experiência em:
 
 ## 🛠️ Minhas principais habilidades técnicas
 
-- **Cloud:** AWS (EC2, S3, IAM, Lambda, RDS, CloudWatch)
+- **Cloud:** AWS (EC2, S3, IAM)
 - **Infraestrutura como Código:** Terraform, Ansible
 - **Containers:** Docker, Docker Compose
 - **CI/CD:** GitHub Actions, Bitbucket Pipelines
