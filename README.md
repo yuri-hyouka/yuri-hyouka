@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá! Eu sou o Yuri 👋
 
-<!--
-**yuri-hyouka/yuri-hyouka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um profissional da área de tecnologia com experiência em:
 
-Here are some ideas to get you started:
+- 💻 Administração de Banco de Dados (MySQL, PostgreSQL)
+- ☁️ Computação em Nuvem (foco em AWS)
+- 🐧 Linux e infraestrutura
+- 🔁 Automação com Shell Script e Python
+- 🛠️ Ferramentas de DevOps como Docker, Terraform, Ansible, CI/CD
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🎯 **Objetivo:** Atuar como **DevOps Engineer ou SRE**, utilizando minha bagagem em infraestrutura e automações para entregar soluções escaláveis, seguras e de alta disponibilidade.
+
+🔍 Estou buscando uma oportunidade para aplicar meus conhecimentos em ambientes desafiadores e com foco em confiabilidade, performance e observabilidade.
+
+📫 **Entre em contato:**  
+[LinkedIn](https://linkedin.com/in/yuriferreirap) • ti.yuri.p@gmail.com
