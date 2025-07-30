@@ -2,7 +2,7 @@
 
 Sou um profissional da área de tecnologia com experiência em:
 
-- 💻 Administração de Banco de Dados (MySQL, PostgreSQL)
+- 💻 Administração de Banco de Dados (MySQL, SQLSERVER)
 - ☁️ Computação em Nuvem (foco em AWS)
 - 🐧 Linux e infraestrutura
 - 🔁 Automação com Shell Script e Python
