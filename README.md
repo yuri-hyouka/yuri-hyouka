@@ -10,9 +10,9 @@ Sou um profissional da área de tecnologia com experiência em:
 
 ---
 
-🎯 **Objetivo:** Atuar como **DevOps Engineer ou SRE**, utilizando minha bagagem em infraestrutura e automações para entregar soluções escaláveis, seguras e de alta disponibilidade.
+🎯 **Objetivo:** Atuar como **DevOps Engineer** ou **SRE**, aplicando minha experiência com infraestrutura, automação e cloud para entregar soluções escaláveis, seguras e resilientes.
 
-🔍 Estou buscando uma oportunidade para aplicar meus conhecimentos em ambientes desafiadores e com foco em confiabilidade, performance e observabilidade.
+🔍 Estou em busca de oportunidades para contribuir em times que valorizam **confiabilidade**, **performance** e **observabilidade**.
 
 ## 🧰 Tecnologias que uso
 
