@@ -1,4 +1,4 @@
-# Olá! Eu sou o Yuri 👋
+# 👨‍💻 Yuri Ferreira — DevOps | SRE | Cloud Engineer
 
 Sou um profissional da área de tecnologia com experiência em:
 
